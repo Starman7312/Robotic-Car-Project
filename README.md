@@ -4,7 +4,7 @@ This is a project containing my A-Level Robotic Car Software, compatible with th
     • The code allows the robot to be controlled remotely using TCP/IP communication (or more simply: using a network / the internet)
     • It provides a graphical user interface with buttons to control the car and other features
     • Provides common key binds for quicker control of the robot (e.g. W, A, S, D)
-    • Provides access to a remote camera streaming webpage (via the webpage: http://_Pi IP Address_:8000/index.html) PS. Enter The Pi IP Into The URL
+    • Provides access to a remote camera streaming webpage (via the webpage: http://Pi IP Address:8000/index.html) PS. Enter The Pi IP Into The URL
     • Provides auditory distance alerts (like a car reversing sensor)
     • Provides the car with collision avoidance capabilities
 
