@@ -6,7 +6,7 @@ This is a project containing my A-Level Robotic Car Software, compatible with th
     • Provides common key binds for quicker control of the robot (e.g. W, A, S, D)
     • Provides access to a remote camera streaming webpage (via the webpage: http://_Pi IP Address_:8000/index.html) PS. Enter The Pi IP Into The URL
     • Provides auditory distance alerts (like a car reversing sensor)
-    • Provides the carwith collision avoidance capabilities
+    • Provides the car with collision avoidance capabilities
 
 The Controller Code folder contains the code and dependancies that needs to be run on the controller device (e.g. laptop, pc, other raspberry pi etc.)
 The Robot Code golder contains the code and dependancies that need to be run on the raspberry pi controlling the robot
