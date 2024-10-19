@@ -16,4 +16,6 @@ Please note:
   
       ➤ These can be found by connecting to the network being used then:
           ⇨ Getting the IP address of each device (e.g. Windows: ipconfig/all or Raspberry Pi OS: ifconfig/all)
-          ⇨ And entering it into the appropriate IP variable (comments in the code explain which IP to enter where)
+          ⇨ And entering it into the appropriate IP variable (comments in the code explain which IP to enter and where)
+          ⇨ E.g. ip = 'Raspberry Pi Wireless LAN IP'  # IP of raspberry pi on home LAN
+          ⇨ So here you enter the approriate IP replacing the string
