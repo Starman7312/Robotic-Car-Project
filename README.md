@@ -16,3 +16,4 @@ Please note:
   
       ➤ These can be found by connecting to the network being used then:
           ⇨ Getting the IP address of each device (e.g. Windows: ipconfig/all or Raspberry Pi OS: ifconfig/all)
+          ⇨ And entering it into the appropriate IP variable (comments in the code explain which IP to enter where)
