@@ -10,7 +10,7 @@ This is a project containing my A-Level Robotic Car Software, compatible with th
 
 The Controller Code folder contains the code and dependancies that needs to be run on the controller device (e.g. laptop, pc, other raspberry pi etc.)
 
-The Robot Code golder contains the code and dependancies that need to be run on the raspberry pi controlling the robot
+The Robot Code folder contains the code and dependancies that need to be run on the raspberry pi controlling the robot
 
 Please note:
 
