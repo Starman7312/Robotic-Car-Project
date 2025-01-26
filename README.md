@@ -35,8 +35,10 @@ Please note:
 **To run:**
 
 On Controller Device (PC/Laptop):
+
     • Run the file named GUI
 
 On Raspberry Pi:
+
     • Run the file named Drive Software (Sticky)
     • And Camera Streaming Software (if you want to use the cam feed)
