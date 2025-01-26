@@ -29,3 +29,14 @@ Please note:
           ⇨ And entering it into the appropriate IP variable (comments in the code explain which IP to enter and where)
           ⇨ E.g. ip = 'Raspberry Pi Wireless LAN IP'  # IP of raspberry pi on home LAN
           ⇨ So here you enter the appropriate IP replacing the string
+
+-----------------------------------------------------------------------------------------------------------------------
+
+To run:
+
+On Controller Device (PC/Laptop):
+  Run the file named GUI
+
+On Raspberry Pi:
+  Run the file named Drive Software (Sticky)
+  And Camera Streaming Software (if you want to use the cam feed)
