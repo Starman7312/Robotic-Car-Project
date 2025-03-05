@@ -1,5 +1,6 @@
 # Robotic-Car-Project
 This is a project containing my A-Level Robotic Car Software, compatible with the CamJamEdukit#3 robotic car kit for Raspberry Pi:
+Check out videos of the project here: https://www.youtube.com/playlist?list=PLHoIQlim7XeMg7k2U5ViysfKgm1ALXoZM
 
     • The code allows the robot to be controlled remotely using TCP/IP communication (or more simply: using a network / the internet)
     • It provides a graphical user interface with buttons to control the car and other features
