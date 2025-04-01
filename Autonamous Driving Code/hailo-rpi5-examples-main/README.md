@@ -47,37 +47,24 @@ When opening a new terminal session, ensure you have sourced the environment set
 ```bash
 source setup_env.sh
 ```
-### Detection Example
+### Autonamous Drive Software
 
 ![Detection Example](doc/images/detection.gif)
 
-#### Run the simple detection example:
-```bash
-python basic_pipelines/detection_simple.py
-```
-To close the application, press `Ctrl+C`.
-
-This is lightweight version of the detection example, mainly focusing on demonstrating Hailo performance while minimizing CPU load. The internal GStreamer video processing pipeline is simplified by minimizing video processing tasks, and the YOLOv6 Nano model is used.
-
-#### Run the full detection example:
+#### Run the autonamous drive software:
 This is the full detection example, including object tracker and multiple video resolution support - see more information [Detection Example Documentation](doc/basic-pipelines.md#detection-example):
 
 ```bash
-python basic_pipelines/detection.py
+python "Machine Vision Self Drive/robot.py" --input rpi
 ```
 To close the application, press `Ctrl+C`.
-
-#### Running with Raspberry Pi Camera input:
-```bash
-python basic_pipelines/detection.py --input rpi
-```
 
 #### Running with USB camera input (webcam):
 There are 2 ways:
 
 Specify the argument `--input` to `usb`:
 ```bash
-python basic_pipelines/detection.py --input usb
+python "Machine Vision Self Drive/robot.py" --input usb
 ```
 
 This will automatically detect the available USB camera (if multiple are connected, it will use the first detected).
@@ -90,54 +77,16 @@ get-usb-camera
 ```
 Run example using USB camera input - Use the device found by the previous script:
 ```bash
-python basic_pipelines/detection.py --input /dev/video<X>
+python "Machine Vision Self Drive/robot.py" --input /dev/video<X>
 ```
 
 For additional options, execute:
 ```bash
-python basic_pipelines/detection.py --help
+python "Machine Vision Self Drive/robot.py" --help
 ```
 
 #### Retrained Networks Support
 This application includes support for using retrained detection models. For more information, see [Using Retrained Models](doc/basic-pipelines.md#using-retrained-models).
-
-### Pose Estimation Example
-For more information see [Pose Estimation Example Documentation.](doc/basic-pipelines.md#pose-estimation-example)
-![Pose Estimation Example](doc/images/pose_estimation.gif)
-
-#### Run the pose estimation example:
-```bash
-python basic_pipelines/pose_estimation.py
-```
-To close the application, press `Ctrl+C`.
-See Detection Example above for additional input options examples.
-
-### Instance Segmentation Example
-For more information see [Instance Segmentation Example Documentation.](doc/basic-pipelines.md#instance-segmentation-example)
-![Instance Segmentation Example](doc/images/instance_segmentation.gif)
-
-#### Run the instance segmentation example:
-```bash
-python basic_pipelines/instance_segmentation.py
-```
-To close the application, press `Ctrl+C`.
-See Detection Example above for additional input options examples.
-
-### Depth Estimation Example
-For more information see [Depth Estimation Example Documentation.](doc/basic-pipelines.md#depth-estimation-example)
-![Depth Estimation Example](doc/images/depth.gif)
-
-#### Run the depth estimation example:
-```bash
-python basic_pipelines/depth.py
-```
-To close the application, press `Ctrl+C`.
-See Detection Example above for additional input options examples.
-
-### Community Projects
-
-Get involved and make your mark! Explore our Community Projects and start contributing today, because together, we build better things! 🚀
-Check out our [Community Projects](community_projects/community_projects.md) for more information.
 
 # Additional Examples and Resources
 
