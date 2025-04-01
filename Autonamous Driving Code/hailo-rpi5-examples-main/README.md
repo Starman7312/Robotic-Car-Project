@@ -36,14 +36,12 @@ chmod +x install.sh
 ### Documentation
 For additional information and documentation on how to use the pipelines to create your own custom pipelines, see the [Basic Pipelines Documentation](doc/basic-pipelines.md).
 
-### Running The Examples
+### Running The Code
 When opening a new terminal session, ensure you have sourced the environment setup script:
 ```bash
 source setup_env.sh
 ```
 ### Autonamous Drive Software
-
-![Detection Example](doc/images/detection.gif)
 
 #### Run the autonamous drive software:
 This is the full detection example, including object tracker and multiple video resolution support - see more information [Detection Example Documentation](doc/basic-pipelines.md#detection-example):
