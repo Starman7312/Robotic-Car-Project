@@ -82,8 +82,6 @@ This application includes support for using retrained detection models. For more
 
 # Additional Examples and Resources
 
-![Hailo Examples Code Structure](doc/images/hailo_examples_code_structure.svg)
-
 ## Hailo Apps Infra
 Hailo RPi5 Examples are using the [Hailo Apps Infra Repository](https://github.com/hailo-ai/hailo-apps-infra) as a dependency. The Hailo Apps Infra repository contains the infrastructure of Hailo applications and pipelines.
 It is aimed for to provide tools for developers who want to create their own custom pipelines and applications. It features a simple and easy-to-use API for creating custom pipelines and applications.
