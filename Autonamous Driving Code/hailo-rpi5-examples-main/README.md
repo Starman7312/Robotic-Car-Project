@@ -1,5 +1,8 @@
 ## Cloned from: [hailo-rpi5-examples](https://github.com/hailo-ai/hailo-rpi5-examples) (*Note: Unneeded files have been removed*)  
 ### New machine vision source file, for autonamous driving can be found here: [Machine Vision Self-Driving](https://github.com/Starman7312/Robotic-Car-Project/tree/69d1f6020dd72dd2643703d5c172a540a147b5b8/Autonamous%20Driving%20Code/hailo-rpi5-examples-main/Machine%20Vision%20Self-Driving)
+
+------------------------------------------------------------
+
 ![Banner](doc/images/hailo_rpi_examples_banner.png)
 
 # Hailo Raspberry Pi 5 Examples
