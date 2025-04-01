@@ -1,4 +1,5 @@
-## Forked from: [hailo-rpi5-examples](https://github.com/hailo-ai/hailo-rpi5-examples)  
+## Forked from: [hailo-rpi5-examples](https://github.com/hailo-ai/hailo-rpi5-examples) (*Note: Unneeded files have been removed*)  
+
 ![Banner](doc/images/hailo_rpi_examples_banner.png)
 
 # Hailo Raspberry Pi 5 Examples
