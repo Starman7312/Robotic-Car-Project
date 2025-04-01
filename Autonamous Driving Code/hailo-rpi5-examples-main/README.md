@@ -19,7 +19,7 @@ See our Developement Guide for more information on how to use the pipelines to c
 ## Installation
 
 ### Clone this Repository
-It is assumed you have already cloned this entire source repsoitory [Robotic Car Project](https://github.com/Starman7312/Robotic-Car-Project)
+**It is assumed you have already cloned this entire source repository: [Robotic Car Project](https://github.com/Starman7312/Robotic-Car-Project)** 
 
 Navigate to the repository directory:
 ```bash
