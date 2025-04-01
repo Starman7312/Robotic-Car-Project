@@ -32,6 +32,7 @@ cd hailo-rpi5-examples
 ### Installation
 Run the following script to automate the installation process:
 ```bash
+chmod +x install.sh
 ./install.sh
 ```
 
