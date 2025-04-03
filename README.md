@@ -1,5 +1,17 @@
 # Robotic-Car-Project
-This is a project containing my A-Level Robotic Car Software, and further developed project extensions (Machine Vision Self-Driving).  
+This is a project containing my A-Level Robotic Car Software.  
+It has also been recently further developed with project extensions (Machine Vision Self-Driving).  
+
+## Contents:
+- Autonomous Driving Code:
+    - Contains code and instructons on how to run machine vision powered self driving
+    - Runs indepedently on the robot
+- Controller Code:
+    - Contains code that allows for remote control of the car from another device
+    - Runs in tandem with robot code
+- Robot Code:
+    - Contains code to be run on the raspberry pi controlling the robot
+    - Runs in tandem with controller code 
 
 It is compatible with the CamJamEdukit#3 robotic car kit for Raspberry Pi: [Link To Kit](https://camjam.me/?page_id=1035)  
 
