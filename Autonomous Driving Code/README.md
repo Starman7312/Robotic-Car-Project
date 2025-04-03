@@ -12,6 +12,7 @@ You must access the **Venv** installed from the **hailo-rpi5-examples** library:
 - ```bash
   source setup_env.sh
   ```
+You must also have downloaded the robot.py file located in this folder [robot.py](https://github.com/Starman7312/Robotic-Car-Project/blob/2722a39ef8a3fbd1f0c879badb777c0f49078721/Autonomous%20Driving%20Code/robot.py)
 
 You can then run the code within the Venv:
 - ```bash
