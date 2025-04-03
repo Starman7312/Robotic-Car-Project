@@ -11,9 +11,11 @@ It has also been recently further developed with project extensions (Machine Vis
     - Runs in tandem with robot code
 - Robot Code:
     - Contains code to be run on the raspberry pi controlling the robot
-    - Runs in tandem with controller code 
+    - Runs in tandem with controller code
+    - 
+-----------------------------------------------------
 
-It is compatible with the CamJamEdukit#3 robotic car kit for Raspberry Pi: [Link To Kit](https://camjam.me/?page_id=1035)  
+All code is compatible with the CamJamEdukit#3 robotic car kit for Raspberry Pi: [Link To Kit](https://camjam.me/?page_id=1035)  
 
 Check out videos of the project here:
 [Link To Videos](https://www.youtube.com/playlist?list=PLHoIQlim7XeMg7k2U5ViysfKgm1ALXoZM)
