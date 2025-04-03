@@ -1,5 +1,6 @@
 # Robotic-Car-Project
-This is a project containing my A-Level Robotic Car Software, compatible with the CamJamEdukit#3 robotic car kit for Raspberry Pi:
+This is a project containing my A-Level Robotic Car Software, and further developed project extensions.
+It is compatible with the CamJamEdukit#3 robotic car kit for Raspberry Pi:
 
 Check out videos of the project here:
 [Link To Videos](https://www.youtube.com/playlist?list=PLHoIQlim7XeMg7k2U5ViysfKgm1ALXoZM)
