@@ -13,7 +13,7 @@ You must access the **Venv** installed from the **hailo-rpi5-examples** library:
   source setup_env.sh
   ```
 
-You can then run the code:
+You can then run the code within the Venv:
 - ```bash
   python path/robot.py --input rpi
   ```
@@ -22,3 +22,6 @@ You can then run the code:
   >e.g. /home/*username*/Downloads/Robotic-Car-Project/Autonomous Driving Code/robot.py  
 - You may need to modify the input command if not using picamera2
 - Run --help for options in this case to see how
+
+## Notes:
+- You must run within the Venv to access dependecy files for communicating with the AI HAT
