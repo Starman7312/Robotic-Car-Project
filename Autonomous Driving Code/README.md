@@ -3,7 +3,7 @@
 ## Dependancies:  
 - Uses the HAILO Raspberry PI AI HAT NPU Accelerator: [Raspberry PI AI HAT](https://www.raspberrypi.com/products/ai-hat/)  
 - You must have set this repository up first: [hailo-rpi5-examples](https://github.com/hailo-ai/hailo-rpi5-examples):
-  - Dependant Respository Install Instructions:
+  - Dependant respository install instructions:
     - ```bash
       git clone https://github.com/hailo-ai/hailo-rpi5-examples.git
       ```
