@@ -20,8 +20,8 @@ You can then run the code within the Venv:
   python path/robot.py --input rpi
   ```
 - Replace *path* with the path to the robot.py file
-- >e.g. /home/*username*/Robotic-Car-Project/Autonomous Driving Code/robot.py  
-  >e.g. /home/*username*/Downloads/Robotic-Car-Project/Autonomous Driving Code/robot.py  
+- >e.g. "/home/*username*/Robotic-Car-Project/Autonomous Driving Code/robot.py"  
+  >e.g. "/home/*username*/Downloads/Robotic-Car-Project/Autonomous Driving Code/robot.py"  
 - You may need to modify the input command if not using picamera2
 - Run --help for options in this case to see how
 
