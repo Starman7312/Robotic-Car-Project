@@ -28,15 +28,16 @@ You must also have downloaded the robot.py file located within this folder:
 
 You can then run the code within the Venv:
 - If you move the robot.py file into the hailo-rpi5-examples folder, you can just run with:
-  - ```bash
+
+```bash
     python robot.py --input rpi
   ```
--
+
 -  Otherwise replace *path* with the path to the robot.py file
-  - ```bash
-    python path/robot.py --input rpi
-    ```
--  >e.g. "/home/*username*/Robotic-Car-Project/Autonomous Driving Code/robot.py"  
+  ```bash
+  python path/robot.py --input rpi
+```
+  >e.g. "/home/*username*/Robotic-Car-Project/Autonomous Driving Code/robot.py"  
   >e.g. "/home/*username*/Downloads/Robotic-Car-Project/Autonomous Driving Code/robot.py"  
 - You may need to modify the input command if not using picamera2
 - Run --help for options in this case to see how
