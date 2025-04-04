@@ -13,7 +13,7 @@
     - ```bash
       ./install.sh
       ```
-  - You'll be all setup now  
+  - You'll be all setup now for following the steps below  
 
 ## Running the code:  
 You must access the **Venv** installed from the **hailo-rpi5-examples** library:
