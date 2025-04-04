@@ -9,7 +9,7 @@ It has also been recently further developed with project extensions (Machine Vis
 - Autonomous Driving Code:
     - Contains code and instructons on how to run machine vision powered self driving
     - Runs indepedently on the robot
-    - Instructions for this can be found in this folder: [Autonomous Driving Code](https://github.com/Starman7312/Robotic-Car-Project/tree/56b54ca292cf28c081ea07b429025635f6fe47ab/Autonomous%20Driving%20Code)
+    - Instructions for running this can be found in this folder: [Autonomous Driving Code](https://github.com/Starman7312/Robotic-Car-Project/tree/56b54ca292cf28c081ea07b429025635f6fe47ab/Autonomous%20Driving%20Code)
 - Controller Code:
     - Contains code that allows for remote control of the car from another device
     - Runs in tandem with robot code
