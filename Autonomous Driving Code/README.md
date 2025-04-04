@@ -2,7 +2,18 @@
 
 ## Dependancies:  
 - Uses the HAILO Raspberry PI AI HAT NPU Accelerator: [Raspberry PI AI HAT](https://www.raspberrypi.com/products/ai-hat/)  
-- You must have set this repository up first: [hailo-rpi5-examples](https://github.com/hailo-ai/hailo-rpi5-examples) 
+- You must have set this repository up first: [hailo-rpi5-examples](https://github.com/hailo-ai/hailo-rpi5-examples):
+  - Install Instructions:
+    - ```bash
+      git clone https://github.com/hailo-ai/hailo-rpi5-examples.git
+      ```
+    - ```bash
+      cd hailo-rpi5-examples
+      ```
+    - ```bash
+      ./install.sh
+      ```
+  - You'll be all setup now  
 
 ## Running the code:  
 You must access the **Venv** installed from the **hailo-rpi5-examples** library:
